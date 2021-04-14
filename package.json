@@ -1,8 +1,8 @@
 {
-  "name": "stock-alloc-calc-server",
+  "name": "node-ts-boilerplate",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "/src/app.js",
   "scripts": {
     "start": "tsnd --respawn -r tsconfig-paths/register src/app.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
